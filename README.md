@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fca9045c-dfcf-49dd-86be-31f2dcd6a9b2/deploy-status)](https://app.netlify.com/sites/dreamy-shannon-4cbec8/deploys)
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
